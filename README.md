@@ -12,3 +12,5 @@ Implement Dark Mode
 ![4](https://github.com/valensniyonkuru/Assignment-3/assets/122721666/5ac78440-2d34-4589-8733-87138bf7ff0c)
 Implement Light Mode
 ![5](https://github.com/valensniyonkuru/Assignment-3/assets/122721666/1b1283c2-36c2-4e99-a1f5-9c1002321ab0)
+detect Internet connectivity and toast a message
+![6](https://github.com/valensniyonkuru/Assignment-3/assets/122721666/7ad3bc56-b5de-488c-9269-8f1812ad5899)
